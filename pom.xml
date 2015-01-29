@@ -59,6 +59,7 @@
                     <exclude>**/*.xml</exclude>
                     <exclude>**/*.MF</exclude>
                     <exclude>**/*.jsp</exclude>
+                    <exclude>**/*.html</exclude>
                 </excludes>
             </resource>
         </resources>
